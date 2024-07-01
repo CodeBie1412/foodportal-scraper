@@ -1,14 +1,16 @@
 <div align="center">
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 </div>
+
+## Issues
 
 1. 3pl will redirect the site to your nearby postal
 2. As it's good for user , it's actually trouble for tester as user tends to view the info on that particular site
 
 ## Objective
 
-Scrap the data and display the data into table view
-This will allow support team/tester to have high-level view on the data returns
+- Scrap the data and display the data into table view
+- This will allow support team/tester to have high-level view on the data returns
 
 ## Contribution
 
