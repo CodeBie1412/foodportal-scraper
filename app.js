@@ -1,6 +1,6 @@
 const express = require("express");
 
-const { scrape } = require("./services/scraperService");
+const { scrape,scrapeWebsite } = require("./services/scraperService");
 const { default: puppeteer } = require("puppeteer");
 
 const app = express();
@@ -18,7 +18,7 @@ app.post("/log-link", async (req, res) => {
   // res.send(`${link} received`);
 
   try {
-    const data = await scrape(link);
+    const data = await scrapeWebsite(link);
     console.log(`Scraped data: ${JSON.stringify(data)}`);
     res.status(200).json(data);
   } catch (error) {

@@ -1,0 +1,63 @@
+[2024-07-09T12:30:46.198Z] Inside iframe: {
+  "titleDiv": {
+    "handle": {}
+  }
+}
+[2024-07-09T12:32:35.121Z] Inside iframe: {
+  "titleDiv": {
+    "handle": {}
+  }
+}
+[2024-07-09T12:33:44.265Z] Inside iframe: {
+  "titleDiv": {
+    "handle": {}
+  }
+}
+[2024-07-09T12:41:10.288Z] Inside iframe: {
+  "titleDiv": {
+    "handle": {}
+  }
+}
+[2024-07-09T12:43:59.851Z] Inside iframe: {
+  "titleDiv": {
+    "handle": {}
+  }
+}
+[2024-07-09T12:45:17.193Z] Inside iframe: {
+  "titleDiv": {
+    "handle": {}
+  }
+}
+[2024-07-09T12:46:26.038Z] Inside iframe: {
+  "titleDiv": {
+    "handle": {}
+  }
+}
+[2024-07-09T12:47:44.354Z] Inside iframe: {
+  "titleDiv": [
+    {
+      "handle": {}
+    },
+    {
+      "handle": {}
+    },
+    {
+      "handle": {}
+    },
+    {
+      "handle": {}
+    },
+    {
+      "handle": {}
+    },
+    {
+      "handle": {}
+    },
+    {
+      "handle": {}
+    },
+    {
+      "handle": {}
+    }
+  ]
+}
