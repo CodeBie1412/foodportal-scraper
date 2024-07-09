@@ -64,6 +64,9 @@ async function scrapeWebsite(link){
     }
   }
 
+
+  asdadasds
+
   const data = await page.evaluate(()=>{
     const titleDiv = document.querySelector('h2.dish-category-title');
 
