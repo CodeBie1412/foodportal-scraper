@@ -41,7 +41,7 @@ Maybe you can mention me or this repo in the acknowledgements too!
 
 ## Contribution
 
-1. Fork it (https://github.com/CodeBie1412/foodportal-scraper/fork)
+1. Fork it
 2. Create your feature branch (git checkout -b feature/fooBar)
 3. Commit your changes (git commit -am 'Add some fooBar')
 4. Push to the branch (git push origin feature/fooBar)
