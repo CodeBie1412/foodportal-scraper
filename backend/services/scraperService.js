@@ -89,33 +89,31 @@ async function scrapeWebsite2(link){
     await page.goto(link, { waitUntil: 'networkidle2' });
 
     const data = await page.evaluate(() => {
-      const elements = document.querySelectorAll('div.box-flex.dish-category-section');
-      return Array.from(elements).map(element => element.innerText.trim());
+      const sections = document.querySelectorAll('div.box-flex.dish-category-section');
+      const results = [];
+
+      sections.forEach(section => {
+        const categoryTitleElement = section.querySelector('h2.dish-category-title');
+        const categoryTitle = categoryTitleElement ? categoryTitleElement.innerText.trim() : 'No Title';
+
+        const productTitles = Array.from(section.querySelectorAll('h3.product-tile__title')).map(el => el.innerText.trim());
+        const productPrices = Array.from(section.querySelectorAll('div.product-tile__price-row')).map(el => el.innerText.trim());
+
+        const products = productTitles.map((title, index) => ({
+          title,
+          price: productPrices[index] || 'No Price'
+        }));
+
+        results.push({ categoryTitle, products });
+      });
+
+      return results;
     });
 
-    const structuredData = data.map(section => {
-      const lines = section.split('\n').filter(line => line.trim() !== '');
-      const category = lines.shift();
-      const description = lines.shift();
-      const items = [];
-
-      while (lines.length){
-        const name = lines.shift();
-        const price = lines.shift();
-        const popularity = lines.shift();
-
-        items.push({name, price, popularity});
-      }
-
-      return { category, description, items};
-    });
-
-    console.log('Scraped Data:', structuredData);
-
-    fs.writeFileSync('scraped_data.json', JSON.stringify(structuredData, null, 2));
+    console.log('Scraped Data:', JSON.stringify(data, null, 2));
 
     await browser.close();
-    return structuredData;
+    return data;
   } catch (error) {
     console.error('Error:', error);
     await browser.close();

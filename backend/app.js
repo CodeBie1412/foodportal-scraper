@@ -4,9 +4,23 @@ const { scrape,scrapeWebsite, scrapeWebsite2 } = require("./services/scraperServ
 const { default: puppeteer } = require("puppeteer");
 
 const app = express();
-const port = 3000;
+const port = 8000;
+
+const cors = require('cors');
+
+app.use(cors());
 
 app.use(express.json());
+
+
+app.get("/api/home", (req,res)=>{
+  res.status(200).send(
+    {
+      message:"Hello World",
+      people: ["Andrew","Jet","Andy",]
+    }
+  );
+});
 
 app.post("/log-link", async (req, res) => {
   const { link } = req.body;

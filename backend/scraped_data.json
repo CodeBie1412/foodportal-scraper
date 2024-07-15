@@ -1,0 +1,558 @@
+[
+  {
+    "category": "Popular",
+    "description": "Most ordered right now.",
+    "items": [
+      {
+        "name": "Chicken Rice Set",
+        "price": "S$ 12.04",
+        "popularity": "Braised bean curd, egg & meatball soup"
+      },
+      {
+        "name": "0",
+        "price": "Lovely Meal",
+        "popularity": "S$ 14.86"
+      },
+      {
+        "name": "1 Pax. Oyster sauce vegetable & dumpling soup",
+        "price": "0",
+        "popularity": "Steamed Chicken"
+      },
+      {
+        "name": "S$ 9.97",
+        "price": "1 Pax",
+        "popularity": "0"
+      },
+      {
+        "name": "Fried Hokkien Mee",
+        "price": "S$ 14.21",
+        "popularity": "A dish comprising of thick yellow noodles and rice vermicelli noodles fried in a rich prawn and pork stock, served with our amazing sambal on the side"
+      },
+      {
+        "name": "0",
+        "price": "Half Chicken",
+        "popularity": "S$ 29.50"
+      },
+      {
+        "name": "0",
+        "price": "Quarter Chicken",
+        "popularity": "S$ 23.51"
+      },
+      {
+        "name": "0"
+      }
+    ]
+  },
+  {
+    "category": "Classic Chicken",
+    "description": "Steamed Chicken",
+    "items": [
+      {
+        "name": "S$ 9.97",
+        "price": "1 Pax",
+        "popularity": "Popular"
+      },
+      {
+        "name": "0",
+        "price": "Lovely Meal",
+        "popularity": "S$ 14.86"
+      },
+      {
+        "name": "1 Pax. Oyster sauce vegetable & dumpling soup",
+        "price": "Popular",
+        "popularity": "0"
+      },
+      {
+        "name": "Valentine Meal",
+        "price": "S$ 32.79",
+        "popularity": "2 Pax"
+      },
+      {
+        "name": "0",
+        "price": "Chicken Rice Set",
+        "popularity": "S$ 12.04"
+      },
+      {
+        "name": "Braised bean curd, egg & meatball soup",
+        "price": "Popular",
+        "popularity": "0"
+      },
+      {
+        "name": "Half Chicken",
+        "price": "S$ 29.50",
+        "popularity": "Popular"
+      },
+      {
+        "name": "0",
+        "price": "Quarter Chicken",
+        "popularity": "S$ 23.51"
+      },
+      {
+        "name": "Popular",
+        "price": "0"
+      }
+    ]
+  },
+  {
+    "category": "Signature Dishes",
+    "description": "Homemade Crispy Prawn Roll",
+    "items": [
+      {
+        "name": "S$ 19.30",
+        "price": "Fried shrimp meat wrapped in beancurd sheets",
+        "popularity": "0"
+      },
+      {
+        "name": "Sweet & Sour Vegetable",
+        "price": "S$ 4.99",
+        "popularity": "0"
+      },
+      {
+        "name": "Thai Style Fried Bean Curd",
+        "price": "S$ 12.85",
+        "popularity": "0"
+      },
+      {
+        "name": "Chicken Feet with Thai Sauce",
+        "price": "S$ 12.85",
+        "popularity": "0"
+      },
+      {
+        "name": "Sweet Potato with Plum Powder",
+        "price": "S$ 12.15",
+        "popularity": "0"
+      },
+      {
+        "name": "Homemade Otah",
+        "price": "S$ 19.30",
+        "popularity": "0"
+      }
+    ]
+  },
+  {
+    "category": "Seafood",
+    "description": "Curry Fish",
+    "items": [
+      {
+        "name": "S$ 39.67",
+        "price": "Made with fresh, succulent fish in spicy and flavorful curry",
+        "popularity": "0"
+      },
+      {
+        "name": "Golden Prawn Ball with Salted Egg Yolk",
+        "price": "S$ 28.25",
+        "popularity": "0"
+      },
+      {
+        "name": "Cereal Prawn Ball",
+        "price": "S$ 28.25",
+        "popularity": "0"
+      },
+      {
+        "name": "Asam Prawn Ball",
+        "price": "S$ 29.55",
+        "popularity": "0"
+      },
+      {
+        "name": "Kam Heong Clams",
+        "price": "S$ 26.23",
+        "popularity": "0"
+      },
+      {
+        "name": "Clams with Ginger & Spring Onion",
+        "price": "S$ 24.99",
+        "popularity": "0"
+      },
+      {
+        "name": "Asam Fish",
+        "price": "S$ 35.92",
+        "popularity": "0"
+      },
+      {
+        "name": "Special Pineapple Steamed Fish",
+        "price": "S$ 35.92",
+        "popularity": "0"
+      }
+    ]
+  },
+  {
+    "category": "Meats",
+    "description": "Prawn Paste Chicken Wings",
+    "items": [
+      {
+        "name": "S$ 15.56",
+        "price": "5 Pcs",
+        "popularity": "0"
+      },
+      {
+        "name": "Hainanese Pork Cutlet",
+        "price": "S$ 25.23",
+        "popularity": "0"
+      },
+      {
+        "name": "Pork Ribs with Salted Egg Yolk",
+        "price": "S$ 26.64",
+        "popularity": "0"
+      },
+      {
+        "name": "Sweet & Sour Pork with Lychee",
+        "price": "S$ 25.23",
+        "popularity": "0"
+      },
+      {
+        "name": "Deep-fried Crispy Pork Belly",
+        "price": "S$ 26.64",
+        "popularity": "0"
+      },
+      {
+        "name": "Pork in Plum Sauce",
+        "price": "S$ 26.64",
+        "popularity": "0"
+      }
+    ]
+  },
+  {
+    "category": "Vegetables & Bean Curd",
+    "description": "Garlic Kailan",
+    "items": [
+      {
+        "name": "S$ 16.90",
+        "price": "100% liked",
+        "popularity": "0"
+      },
+      {
+        "name": "Sambal Kangkong",
+        "price": "S$ 16.12",
+        "popularity": "0"
+      },
+      {
+        "name": "Hainanese Nan Ru Vegetables",
+        "price": "S$ 19.71",
+        "popularity": "0"
+      },
+      {
+        "name": "Three Mushroom Bean Curd",
+        "price": "S$ 17.88",
+        "popularity": "0"
+      },
+      {
+        "name": "Charcoal Bean Curd",
+        "price": "S$ 18.77",
+        "popularity": "0"
+      },
+      {
+        "name": "French Bean with XO Sauce",
+        "price": "S$ 21.80",
+        "popularity": "0"
+      }
+    ]
+  },
+  {
+    "category": "Soups",
+    "description": "Meatball Soup",
+    "items": [
+      {
+        "name": "S$ 12.04",
+        "price": "0",
+        "popularity": "Hainanese Lamb Soup"
+      },
+      {
+        "name": "S$ 27.48",
+        "price": "0",
+        "popularity": "Lotus Root Peanut Soup"
+      },
+      {
+        "name": "S$ 15.13",
+        "price": "0"
+      }
+    ]
+  },
+  {
+    "category": "Rice",
+    "description": "Salted Egg Pork Ribs Rice",
+    "items": [
+      {
+        "name": "S$ 12.55",
+        "price": "Deep fried pork ribs in a creamy and rich salted egg sauce with rice",
+        "popularity": "0"
+      },
+      {
+        "name": "Sweet & Sour Pork Rice",
+        "price": "S$ 12.55",
+        "popularity": "Deep fried pork drenched in a thick, sweet and sour glaze. Served with rice"
+      },
+      {
+        "name": "0",
+        "price": "Yang Zhou Fried Rice",
+        "popularity": "S$ 12.55"
+      },
+      {
+        "name": "A classic Chinese-style wok fried rice, delivering a savoury and umami flavour bomb.",
+        "price": "100% liked",
+        "popularity": "0"
+      },
+      {
+        "name": "Chicken Fried Rice",
+        "price": "S$ 12.55",
+        "popularity": "A stir fried fluffy golden fried rice with chicken"
+      },
+      {
+        "name": "0",
+        "price": "Seafood Fried Rice",
+        "popularity": "S$ 12.55"
+      },
+      {
+        "name": "A stir fried fluffy golden fried rice with a savoury sweet sauce with fresh seafood",
+        "price": "0",
+        "popularity": "Sambal Chicken Fried Rice"
+      },
+      {
+        "name": "S$ 13.31",
+        "price": "Fragrant, spicy and savoury sambal fried rice",
+        "popularity": "0"
+      },
+      {
+        "name": "Fried Rice with Chicken Floss",
+        "price": "S$ 12.55",
+        "popularity": "0"
+      },
+      {
+        "name": "Sambal Seafood Fried Rice",
+        "price": "S$ 13.31",
+        "popularity": "0"
+      },
+      {
+        "name": "Thai Style Chicken Chop Rice",
+        "price": "S$ 12.55",
+        "popularity": "0"
+      }
+    ]
+  },
+  {
+    "category": "Noodles",
+    "description": "Mee Goreng",
+    "items": [
+      {
+        "name": "S$ 12.55",
+        "price": "A popular Indonesian street food, stir fried with a savoury sweet sauce with fresh seafood",
+        "popularity": "0"
+      },
+      {
+        "name": "Fried Hokkien Mee",
+        "price": "S$ 14.21",
+        "popularity": "A dish comprising of thick yellow noodles and rice vermicelli noodles fried in a rich prawn and pork stock, served with our amazing sambal on the side"
+      },
+      {
+        "name": "Popular",
+        "price": "0",
+        "popularity": "Crispy Noodle with Seafood"
+      },
+      {
+        "name": "S$ 12.55",
+        "price": "0",
+        "popularity": "Bee Hoon with Seafood"
+      },
+      {
+        "name": "S$ 12.55",
+        "price": "0",
+        "popularity": "Hor Fun with Seafood"
+      },
+      {
+        "name": "S$ 12.55",
+        "price": "0",
+        "popularity": "Beef Hor Fun with Special Sauce"
+      },
+      {
+        "name": "S$ 13.31",
+        "price": "0",
+        "popularity": "San Lor Hor Fun"
+      },
+      {
+        "name": "S$ 12.55",
+        "price": "93% liked",
+        "popularity": "0"
+      }
+    ]
+  },
+  {
+    "category": "Eggs",
+    "description": "Fu Rong Omelette",
+    "items": [
+      {
+        "name": "S$ 14.66",
+        "price": "The golden, crispy edges of the omelette, the tantalising aromas of egg and onion – and the soft, fluffy chunks of whisked egg blended with stir-fried ingredients",
+        "popularity": "0"
+      },
+      {
+        "name": "Onion Omelette",
+        "price": "S$ 14.66",
+        "popularity": "Chinese style fluffy omelette with sweet and caramelised onions"
+      },
+      {
+        "name": "0",
+        "price": "Prawn Omelette",
+        "popularity": "S$ 16.39"
+      },
+      {
+        "name": "Tasty & hearty dish",
+        "price": "0",
+        "popularity": "Chinese Sausage Omelette"
+      },
+      {
+        "name": "S$ 14.66",
+        "price": "0",
+        "popularity": "Omelette with Salted & Dried Radish"
+      },
+      {
+        "name": "S$ 14.66",
+        "price": "0"
+      }
+    ]
+  },
+  {
+    "category": "Extras",
+    "description": "Steamed Rice",
+    "items": [
+      {
+        "name": "S$ 2",
+        "price": "Tasty and fluffy grains that pairs perfectly well with your favourite dishes",
+        "popularity": "0"
+      },
+      {
+        "name": "Oil Rice",
+        "price": "S$ 2.66",
+        "popularity": "92% liked"
+      },
+      {
+        "name": "0"
+      }
+    ]
+  },
+  {
+    "category": "Desserts",
+    "description": "Pumpkin Yam Paste",
+    "items": [
+      {
+        "name": "S$ 17.94",
+        "price": "2-3 Pax",
+        "popularity": "0"
+      }
+    ]
+  },
+  {
+    "category": "Beverages",
+    "description": "Coffee",
+    "items": [
+      {
+        "name": "from S$ 3.03",
+        "price": "Aromatic and smooth flavours from freshly brewed coffee grounds",
+        "popularity": "0"
+      },
+      {
+        "name": "Coffee O",
+        "price": "from S$ 3.03",
+        "popularity": "An aromatic cup of freshly brewed coffee with sugar."
+      },
+      {
+        "name": "0",
+        "price": "Coffee C",
+        "popularity": "from S$ 3.03"
+      },
+      {
+        "name": "An aromatic cup of freshly brewed coffee with evaporated milk and sugar.",
+        "price": "0",
+        "popularity": "Milk Tea"
+      },
+      {
+        "name": "from S$ 3.03",
+        "price": "Every sip is like opening a present",
+        "popularity": "0"
+      },
+      {
+        "name": "Tea O",
+        "price": "from S$ 3.03",
+        "popularity": "Traditional black tea with sugar"
+      },
+      {
+        "name": "0",
+        "price": "Tea C",
+        "popularity": "from S$ 3.03"
+      },
+      {
+        "name": "Freshly brewed tea with evaporated milk and sugar",
+        "price": "0",
+        "popularity": "Milo"
+      },
+      {
+        "name": "from S$ 3.43",
+        "price": "High in carbohydrates, protein, vitamins and minerals",
+        "popularity": "0"
+      },
+      {
+        "name": "Homemade Barley",
+        "price": "S$ 4.54",
+        "popularity": "A traditional concoction that is a perfect dose of health. Contains tocols, antioxidants that lowers cholesterol and clear artery blockages."
+      },
+      {
+        "name": "0",
+        "price": "Lemon Plum Juice",
+        "popularity": "S$ 4.54"
+      },
+      {
+        "name": "Iced",
+        "price": "0",
+        "popularity": "Plum Juice with Coke"
+      },
+      {
+        "name": "S$ 5.48",
+        "price": "Iced",
+        "popularity": "0"
+      },
+      {
+        "name": "Lime Juice",
+        "price": "S$ 4.54",
+        "popularity": "Iced"
+      },
+      {
+        "name": "0",
+        "price": "Pomelo Juice with Mint Leaf",
+        "popularity": "S$ 5.48"
+      },
+      {
+        "name": "Iced",
+        "price": "0",
+        "popularity": "Honey Longan with Melon"
+      },
+      {
+        "name": "S$ 4.99",
+        "price": "Iced",
+        "popularity": "0"
+      },
+      {
+        "name": "Mineral Water",
+        "price": "S$ 2.92",
+        "popularity": "Iced"
+      },
+      {
+        "name": "0",
+        "price": "Coke",
+        "popularity": "S$ 3.63"
+      },
+      {
+        "name": "Iced",
+        "price": "0",
+        "popularity": "Ice Cream Soda"
+      },
+      {
+        "name": "S$ 3.63",
+        "price": "A traditional American favorite with its smooth vanilla flavor.",
+        "popularity": "0"
+      },
+      {
+        "name": "Chinese Tea",
+        "price": "from S$ 2.16",
+        "popularity": "0"
+      }
+    ]
+  }
+]
